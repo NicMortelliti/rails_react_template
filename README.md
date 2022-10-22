@@ -1,1 +1,1 @@
-# rails_template
+g# rails_template

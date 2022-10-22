@@ -1,1 +1,0 @@
-g# rails_template
